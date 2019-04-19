@@ -16,10 +16,6 @@
 |----------------------------------------------------------------|
 |Ctrl|Win |Alt |        Space          |Alt| FN|Ctrl|Lef|Dow|Rig |
 `----------------------------------------------------------------'
-Note: Shift + Esc = ~
-      Win   + Esc = `
-      Hold  + RShift = (
-      Hold  + LShift = )
 
 
  Fn Layer
