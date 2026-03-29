@@ -22,6 +22,15 @@ A versatile 65% PCB featuring underglow and specific QMK configurations.
 
 ---
 
+## XB67 (KBD67 MKII)
+
+A 65% mechanical keyboard with hot-swap design, USB-C interface, and per-key RGB backlighting.
+
+* **[Setup Guide](xbd67/README.md)** – Step-by-step instructions for VIA and firmware configuration.
+* **[Firmware Files](xbd67/firmware/)** – Pre-configured VIA and binary firmware files.
+
+---
+
 ### Quick Tools
 * [QMK Configurator](https://config.qmk.fm/)
 * [QMK Toolbox](https://github.com/qmk/qmk_toolbox)
